@@ -1,1 +1,1 @@
-# BeautifulLinkedinPost
+# Beautiful Linkedin Post
